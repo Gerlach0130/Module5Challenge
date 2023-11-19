@@ -56,11 +56,10 @@ $(function () {
   //
   $('.time-block').each(function () {
     var parseHour = parseInt($(this).attr('id').split('-')[1]);
-
     if (parseHour < currentTime) {
       $(this).addClass('past');
     }
-    else if (parseHour === currentTime) {
+    else if (parseHour == currentTime) {
       $(this).addClass('present');
     }
     else {
