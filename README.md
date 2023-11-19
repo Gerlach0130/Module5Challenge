@@ -7,4 +7,4 @@ Each time block takes up one hour
 
 https://gerlach0130.github.io/Module5Challenge/
 
-![Alt text](screenshotmodule5.png)
+![Alt text](screenshotdayplanner.png)
